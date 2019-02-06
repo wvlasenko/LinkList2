@@ -10,6 +10,7 @@ public class LinkList2App {
         theList.insertFirst(3, "Bus 3");
         theList.insertFirst(4, "Bus 10");
         theList.insertFirst(5, "Bus 5");
+        theList.insertFirst(6, "Bus 12");
         theList.displayList();
 
         Link fn = theList.find(4);
